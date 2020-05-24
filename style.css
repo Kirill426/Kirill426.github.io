@@ -28,6 +28,7 @@ body{
 	height: 50px;
 	padding: 10px;
 	display: inline-block;
+	overflow: hidden;
 	font-size: 35px;
 	color: #fff;
 	font-family: font2;
